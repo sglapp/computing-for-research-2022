@@ -22,7 +22,7 @@ Each day we will pull the most recent version of the daily jupyter notebook from
 1) open terminal or other application for the bash/zsh command line 
 2) `cd` into the directory you want your bootcamp materials to live in
 3) `git clone https://github.com/NRT-DSEER/computing-for-research-2022.git`
-4) `cd computing-for-research-2022`
+4) `cd computing-for-research-2022.git`
 5) `cd notebooks`
 6) `jupyter notebook`
 
@@ -39,7 +39,7 @@ Each day we will pull the most recent version of the daily jupyter notebook from
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack. [This video](https://www.youtube.com/watch?v=Xm790AkFeK4&ab_channel=TraversyMedia) and others like it may be helpful.
 
 - Sophia Horigan, she/her, 4th year PhD Candidate in Ecology and Evolution, Biological Sciences Division
-- Samantha Lapp
+- Samantha Lapp, she/her, 4th year PhD Candidate in Physics, Department of Physics + Department of Geophysical Sciences
 - Haynes Stephens, he/him, PhD in Atmospheric Sciences, Department of Geophisical Sciences
 
 ### Teaching Assistants:
@@ -70,13 +70,25 @@ The folder for the recordings will be posted over Slack or sent over email. We w
 - Basics: Data Visualization
 - Basics: Data Structures
 
-## Day 2: 
+## Day 2: Pandas
+- Key advantages to using Pandas
+- Pandas Series and DataFrames
+- Data wrangling: cleaning and slicing DataFrames
+- Data processing: groupby and applying functions to DataFrames
 
-## Day 3:
+## Day 3: Advanced Numpy
+- Indexing: slicing, specifying elements, boolean indexing
+- Masked arrays
+- Linear algebra
+
 
 ## Day 4:
 
-## Day 5: 
+## Day 5: Data Visualization: making exploratory plots
+- Seaborn
+- Plotly Express
+- Xarray
+- Geoviews
 
 ## Day 6: RCC
 - What is a computing cluster?
