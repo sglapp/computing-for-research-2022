@@ -39,8 +39,8 @@ Each day we will pull the most recent version of the daily jupyter notebook from
 All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack. [This video](https://www.youtube.com/watch?v=Xm790AkFeK4&ab_channel=TraversyMedia) and others like it may be helpful.
 
 - Sophia Horigan, she/her, 4th year PhD Candidate in Ecology and Evolution, Biological Sciences Division
-- Samantha Lapp
-- Haynes Stephens, he/him, PhD in Atmospheric Sciences, Department of Geophisical Sciences
+- Samantha Lapp, she/her, 4th year PhD Candidate in Physics, Department of Physics + Department of Geophysical Sciences
+- Haynes Stephens, he/him, PhD in Atmospheric Sciences, Department of Geophysical Sciences
 
 ### Teaching Assistants:
 Contact over slack or attend office hours (the final 30 minutes of each day, over zoom or in person)
@@ -70,7 +70,11 @@ The folder for the recordings will be posted over Slack or sent over email. We w
 - Basics: Data Visualization
 - Basics: Data Structures
 
-## Day 2: 
+## Day 2: Pandas
+- Key advantages to using Pandas
+- Pandas Series and DataFrames
+- Data wrangling: cleaning and slicing DataFrames
+- Data processing: groupby and applying functions to DataFrames
 
 ## Day 3:
 
